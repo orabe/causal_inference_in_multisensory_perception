@@ -82,8 +82,9 @@ and execute all cells to reproduce simulations, figures, and model fitting resul
 
 ## Author
 
-Mohammad Orabe
-Ammar Ibrahim
+[Mohammad Orabe](https://github.com/orabe-mhd)
+
+[Ammar Ibrahim](https://github.com/Ammar-Elsaeed)
 
 Models of Higher Brain Functions (MHBF)
 TU Berlin
