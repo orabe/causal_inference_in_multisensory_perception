@@ -59,7 +59,7 @@ Key findings include:
 
 ## Requirements
 
-Typical dependencies:
+Dependencies:
 
 ```bash
 numpy
